@@ -10,4 +10,4 @@ class SignUp(CreateView):
     template_name = 'accounts/signup.html'
 
 
-# to jest komentarz na potrzeby git
+#komentarz
