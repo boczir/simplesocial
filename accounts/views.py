@@ -11,3 +11,4 @@ class SignUp(CreateView):
 
 
 #komentarz
+#to jest zmiana z gałęzi
